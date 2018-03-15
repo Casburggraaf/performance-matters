@@ -1,0 +1,3 @@
+[submodule "sitespeed"]
+	path = sitespeed
+	url = git@github.com:sitespeedio/sitespeed.io.git

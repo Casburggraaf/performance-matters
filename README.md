@@ -25,4 +25,10 @@ Differences from actual Bootstrap documentation:
 #### First Test Run ([Master](https://github.com/Casburggraaf/performance-matters/tree/master))
 This test is runned without any improvements.
 ![alt text](sitespeed-result/test_images/test_1.png "first test")
-Or see [Result page](https://github.com/Casburggraaf/performance-matters/tree/master/sitespeed-result/localhost/2018-03-15-14-18-04/index.html)
+Or see [Result page](https://github.com/Casburggraaf/performance-matters/tree/master/sitespeed-result/localhost/2018-03-15-14-18-04/detailed.html)
+
+#### CSS and JS Minification ([Minify](https://github.com/Casburggraaf/performance-matters/tree/feature/minify))
+This test is runned with minifycation of css and js, with the tool[minifier](https://github.com/fizker/minifier) .
+The Changes are minimal but this practice is a easy win without any setbacks
+![alt text](sitespeed-result/test_images/test_minify.png "minify test")
+Or see [Detail page](https://github.com/Casburggraaf/performance-matters/tree/master/sitespeed-result/localhost/2018-03-15-14-43-37/detailed.html)

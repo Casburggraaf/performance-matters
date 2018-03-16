@@ -42,3 +42,8 @@ Or see [Detail page](http://htmlpreview.github.io/?https://raw.githubusercontent
 This test is runned with async-css. The used the method discribed by [filamentgroup](https://www.filamentgroup.com/lab/async-css.html) .
 ![alt text](sitespeed-result/test_images/test_async-css.png "Async Css test")
 Or see [Detail page](http://htmlpreview.github.io/?https://raw.githubusercontent.com/Casburggraaf/performance-matters/tree/master/sitespeed-result/localhost/2018-03-16-11-47-03/detailed.html)
+
+#### Critical Css ([Critical Css](https://github.com/Casburggraaf/performance-matters/tree/feature/critical-css))
+This test is runned with critical css and async-css. Otherwise the critcal css wont do anything. I used  [penthouse](https://github.com/pocketjoso/penthousel) to genarate the critical css .
+![alt text](sitespeed-result/test_images/test_critical-css.png "critical Css test")
+Or see [Detail page](http://htmlpreview.github.io/?https://raw.githubusercontent.com/Casburggraaf/performance-matters/tree/master/sitespeed-result/localhost/2018-03-16-12-32-23/detailed.html)

@@ -1,3 +1,6 @@
 [submodule "sitespeed"]
 	path = sitespeed
 	url = git@github.com:sitespeedio/sitespeed.io.git
+[submodule "penthouse"]
+	path = penthouse
+	url = git@github.com:pocketjoso/penthouse.git

@@ -47,3 +47,16 @@ Or see [Detail page](http://htmlpreview.github.io/?https://raw.githubusercontent
 This test is runned with critical css and async-css. Otherwise the critcal css wont do anything. I used  [penthouse](https://github.com/pocketjoso/penthousel) to genarate the critical css .
 ![alt text](sitespeed-result/test_images/test_critical-css.png "critical Css test")
 Or see [Detail page](http://htmlpreview.github.io/?https://raw.githubusercontent.com/Casburggraaf/performance-matters/tree/master/sitespeed-result/localhost/2018-03-16-12-32-23/detailed.html)
+
+#### All improvement ([all improvement](https://github.com/Casburggraaf/performance-matters/tree/feature/all-improvents))
+
+![alt text](sitespeed-result/test_images/test_all-improvement.png "all improvement")
+Or see [Detail page](http://htmlpreview.github.io/?https://raw.githubusercontent.com/Casburggraaf/performance-matters/tree/master/sitespeed-result/localhost/2018-03-16-13-00-30/detailed.html)
+
+### ToDo improvements
+
+- Gzip(besides it's (serverside)[https://github.com/expressjs/compression])
+- Image compression
+- Client Hints
+- Fonts Async
+- Picture elements
